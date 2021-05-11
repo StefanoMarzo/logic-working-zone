@@ -1,2 +1,2 @@
 # LogicWorkingZone
-HDL Implementation of Working Zone Architecture
+HDL Implementation of Working Zone Architecture (ITALIAN)
